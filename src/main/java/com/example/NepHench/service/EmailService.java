@@ -17,7 +17,7 @@ public class EmailService {
 
     public void sendVerificationEmail(String recipientEmail, String verificationToken) {
         String subject = "Verify Your Email";
-        String verificationLink = "http://192.168.52.87:9096/api/users/verify-email?token=" + verificationToken;
+        String verificationLink = "http://192.168.1.69:9096/api/users/verify-email?token=" + verificationToken;
 
         String body = "<html><body>"
                 + "<h2>Please verify your email:</h2>"
