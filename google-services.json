@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "662245621998",
+    "project_id": "nephench",
+    "storage_bucket": "nephench.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662245621998:android:9acfd1d1f2176b2bbb73ff",
+        "android_client_info": {
+          "package_name": "com.example.NepHench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662245621998-dmum9qet6bvp558s6kfu9khdqfrfv9ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbpnKJtMzlW_A4HRPKM-AHhdWh3uT6fOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "662245621998-dmum9qet6bvp558s6kfu9khdqfrfv9ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
